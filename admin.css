@@ -1,0 +1,316 @@
+* {
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'PT Serif', serif;
+}
+
+
+#cabecera {
+    background-color: wheat;
+    width: 1349px;
+    height: 100px;
+    display: flex;
+    gap: 40px;
+}
+
+#cabecera .inicio {
+    display: flex;
+}
+
+.imgInicio {
+    width: 70px;
+    height: 40px;
+    margin-top: 30px;
+}
+
+.palabraInicio {
+    margin-top: 40px;
+    text-decoration: none;
+}
+
+/*MARGIN: DISTANCIA DE CAJAS*/
+#cabecera .logo {
+    width: 120px;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 500px;
+
+}
+
+#cabecera .carrito {
+    display: flex;
+    margin-right: 20px;
+    margin-top: 25px;
+
+}
+
+
+
+#cabecera .imgCarrito {
+    width: 70px;
+    height: 70px;
+    padding-bottom: 15px;
+
+}
+
+#cabecera .palabraCarrito {
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+
+#cabecera .cuenta {
+    margin-top: 35px;
+    margin-left: -30px;
+}
+
+#cabecera .imgCuenta {
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+}
+
+.cuenta2 {
+    width: 30px;
+    margin-bottom: 50px;
+}
+
+
+/*-----------------------------------------------------*/
+
+#pago {
+    background-color: #abc3e4;
+    width: 1180px;
+    height: 800px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    border-radius: 40px;
+    display: flex;
+    gap: 200px;
+}
+
+.disponibles{
+    margin-left: 70px;
+}
+.productosGeneral{
+    margin-top: 100px;
+    margin-left: -400px;
+    background-color:#ffbd59;
+    width: 300px;
+    height: 650px;
+    border-radius: 20px;
+}
+
+.sabores1{
+        display: flex;
+}
+
+/*white-space:pre    SIRVE PARA QUE NO HAYA UN SALTO DE LINEA EN TEXTO*/
+.p1{
+   white-space:pre;
+margin-top: 10px;
+margin-left: 30px;
+}
+.input1{
+    width: 120px;
+    height: 25px;
+    margin-left: 17px;
+    margin-top: 5px;
+}
+
+.p2{
+    margin-top: 46px;
+    margin-left: -267px;
+    white-space:pre;
+}
+
+.input2{
+    width: 120px;
+    height: 25px;
+    margin-top: 40px;
+    margin-left: 32px;
+}
+.p3{
+    margin-top:90px;
+    margin-left: -270px;
+    white-space:pre;
+}
+.input3{
+    width: 120px;
+    height: 25px;;
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+.p4{
+    margin-top: 130px;
+    margin-left: -265px;
+    white-space:pre;
+}
+.input4{
+    width: 120px;
+    height: 25px;
+    margin-top: 120px;
+    margin-left: 22px;
+}
+.p5{
+    margin-top: 170px;
+    margin-left: -265px;
+    white-space:pre;
+}
+.input5{
+  
+    width: 120px;
+    height: 25px;
+    margin-top: 165px;
+    margin-left: 2px;
+}
+
+
+
+.adornos1{
+    display: flex;
+}
+.adornos{
+    margin-top: 15px;
+    margin-left:5px;
+}
+
+
+.p6{
+    white-space:pre;
+ margin-top: 10px;
+ margin-left: 30px;
+ }
+ .input6{
+     width: 120px;
+     height: 25px;
+     margin-left: 30px;
+     margin-top: 10px;
+ }
+ 
+ .p7{
+     margin-top: 46px;
+     margin-left: -267px;
+     white-space:pre;
+ }
+ 
+ .input7{
+     width: 120px;
+     height: 25px;
+     margin-top: 45px;
+     margin-left: 56px;
+ }
+ .p8{
+     margin-top:90px;
+     margin-left: -270px;
+     white-space:pre;
+ }
+ .input8{
+     width: 70px;
+     height: 25px;;
+     margin-top: 86px;
+     margin-left: 10px;
+ }
+ 
+ .p9{
+     margin-top: 130px;
+     margin-left: -252px;
+     white-space:pre;
+ }
+ .input9{
+     width: 120px;
+     height: 25px;
+     margin-top: 120px;
+     margin-left: 94px;
+ }
+
+
+ 
+.tamaños1{
+    display: flex;
+    margin-top: 15px;
+ }
+ .tamaños{
+    margin-top: 15px;
+    margin-left: 3px;
+ }
+
+ .p10{
+    margin-top: 3px;
+    margin-left: 30px;
+    white-space:pre;
+}
+
+.input10{
+    width: 120px;
+    height: 25px;
+    margin-top: px;
+    margin-left: 85px;
+}
+.p11{
+    margin-top:50px;
+    margin-left: -265px;
+    white-space:pre;
+}
+.input11{
+    width: 120px;
+    height: 25px;
+    margin-top: 45px;
+    margin-left: 75px;
+}
+
+.p12{
+    margin-top: 100px;
+    margin-left: -265px;
+    white-space:pre;
+}
+.input12{
+    width: 120px;
+    height: 25px;
+    margin-top: 95px;
+    margin-left: 75px;
+}
+
+ 
+.tabla{
+    margin-left: -220px;
+}
+  .titulo2{
+    margin-left: 350px;
+  }
+
+  .tabla1{
+    margin-left: 100px;
+    border: 1px black solid;
+    
+   
+  }
+
+.tabla1 td{
+    text-align: center;
+    border-collapse: collapse;
+}
+
+
+.table, td, th{
+    text-align: center;
+    border:1px black solid;
+    padding: 5px;
+  
+}
+.general{
+    border-collapse: collapse;
+    background-color: #ffbd59;
+}
+/**--------------------------------------------*/
+#Footer {
+    background-color: #abc3e4;
+}
+
+#Footer .footer {
+    display: flex;
+    gap: 60px;
+    margin-left: 400px;
+
+}
